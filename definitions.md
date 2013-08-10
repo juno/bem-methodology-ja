@@ -146,7 +146,7 @@ HTML開発者は仲間のJavaScript開発者にこんな伝え方ができる:
 
 同じものをJSONで表現した場合:
 
-```json
+```javascript
 {
   block: 'page',
   content: {
