@@ -13,7 +13,7 @@ BEMはいくつかの点でオブジェクト指向プログラミングと似�
 次の図のような一般的なWebサイトを思い浮かべてみよう。
 
 <div style="text-align:center">
-<img src="http://bem.info/method/definitions/images/site.png"/>
+<img src="http://img-fotki.yandex.ru/get/9347/221798411.0/0_babd8_4e505a88_XXL.png"/>
 </div>
 
 このようなWebサイトの開発中には、サイトを構成するものを「ブロック」として区別しておくと役立つ。
@@ -23,7 +23,7 @@ BEMはいくつかの点でオブジェクト指向プログラミングと似�
 `メインレイアウト`は、`ページタイトル`や`テキストブロック`を含んでいる。
 
 <div style="text-align:center">
-<img src="http://bem.info/method/definitions/images/site-marked.png"/>
+<img src="http://img-fotki.yandex.ru/get/9258/221798411.0/0_babd7_c4c0b5d6_XXL.png"/>
 </div>
 
 ページの各部分に名前を付けるのは、チームでのコミュニケーションにとても役立つ。
@@ -48,7 +48,7 @@ HTML開発者は仲間のJavaScript開発者にこんな伝え方ができる:
 検索フォームブロック
 
 <div style="text-align:center">
-<img src="http://bem.info/method/definitions/images/search-block.png"/>
+<img src="http://img-fotki.yandex.ru/get/9316/221798411.0/0_babd5_c3d7b2b5_XL.png"/>
 </div>
 
 ### エレメント（Element）
@@ -60,7 +60,7 @@ HTML開発者は仲間のJavaScript開発者にこんな伝え方ができる:
 入力フィールドとボタンは検索ブロックのエレメント
 
 <div style="text-align:center">
-<img src="http://bem.info/method/definitions/images/search-block-marked.en.png"/>
+<img src="http://img-fotki.yandex.ru/get/5013/221798411.0/0_babd3_d1278b96_XXL.png"/>
 </div>
 
 ## ページとテンプレートを表現する手段
@@ -72,13 +72,13 @@ HTML開発者は仲間のJavaScript開発者にこんな伝え方ができる:
 例えば、コマースサイトの商品リスト:
 
 <div style="text-align:center">
-<img src="http://bem.info/method/definitions/images/goods-list.png"/>
+<img src="http://img-fotki.yandex.ru/get/9109/221798411.0/0_babcc_d935a8ec_XXL.png"/>
 </div>
 
 …もしくはメニューアイテム:
 
 <div style="text-align:center">
-<img src="http://bem.info/method/definitions/images/menu-items.png"/>
+<img src="http://img-fotki.yandex.ru/get/6726/221798411.0/0_babd1_f14000fa_XL.png"/>
 </div>
 
 ブロックはその内部に他のブロックを含むこともできる。
@@ -86,7 +86,7 @@ HTML開発者は仲間のJavaScript開発者にこんな伝え方ができる:
 例えば、他のブロックを含む`ヘッダーブロック`:
 
 <div style="text-align:center">
-<img src="http://bem.info/method/definitions/images/head-marked.png"/>
+<img src="http://img-fotki.yandex.ru/get/5008/221798411.0/0_babce_7deef28f_XXL.png"/>
 </div>
 
 これらの構成要素がある一方で、プレーンテキストでページレイアウトを記述することも必要である。
@@ -111,7 +111,7 @@ HTML開発者は仲間のJavaScript開発者にこんな伝え方ができる:
 例えばメニューアイテムの場合:
 
 <div style="text-align:center">
-<img src="http://bem.info/method/definitions/images/menu-items.png"/>
+<img src="http://img-fotki.yandex.ru/get/6726/221798411.0/0_babd1_f14000fa_XL.png"/>
 </div>
 
 キーワードは特定の順序で表れる必要がある。
@@ -198,11 +198,11 @@ BEMツリーを表現するフォーマットやテンプレートエンジン�
 例えば`ロゴ`と`認証ブロック`を入れ替えたり、`メニュー`を`検索ブロック`の下に置いたり、といったことだ。
 
 <div style="text-align: center">
-<img src="http://bem.info/method/definitions/images/head.png"/>
+<img src="http://img-fotki.yandex.ru/get/9110/221798411.0/0_babcf_819f07f2_XXL.png"/>
 </div>
 
 <div style="text-align: center">
-<img src="http://bem.info/method/definitions/images/head-changed.png"/>
+<img src="http://img-fotki.yandex.ru/get/9153/221798411.0/0_babcd_313420f0_XXL.png"/>
 </div>
 
 この作業を容易にするには、ブロックが`独立`している必要がある。
@@ -305,7 +305,7 @@ JavaScript的にはこういうことだ:
 * `フッター`に別な`メニュー`を **異なるレイアウト** で追加する。
 
 <div style="text-align: center">
-<img src="http://bem.info/method/definitions/images/site-footer-menu.png"/>
+<img src="http://img-fotki.yandex.ru/get/9255/221798411.0/0_babd6_ec71b7f8_XXL.png"/>
 </div>
 
 既存のものとわずかしか違わないブロックを作るのではなく、`モディファイア`を使うことができる。
@@ -319,7 +319,7 @@ JavaScript的にはこういうことだ:
 背景色を指定するブロックモディファイア
 
 <div style="text-align: center">
-<img src="http://bem.info/method/definitions/images/search-background.png"/>
+<img src="http://img-fotki.yandex.ru/get/9325/221798411.0/0_babd2_7da50c7b_XL.png"/>
 </div>
 
 **例**
@@ -327,7 +327,7 @@ JavaScript的にはこういうことだ:
 「現在」のアイテムの見た目を変えるエレメントモディファイア
 
 <div style="text-align: center">
-<img src="http://bem.info/method/definitions/images/menu-current-item.png"/>
+<img src="http://img-fotki.yandex.ru/get/9313/221798411.0/0_babd0_503ecad_L.png"/>
 </div>
 
 ### 入力データの観点から
@@ -508,13 +508,13 @@ block('menu').toggleMod('size', 'big', 'small');
 サイトには、ある動的な振る舞いを持った`ボタン`ブロックがある。
 
 <div style="text-align: center">
-<img src="http://bem.info/method/definitions/images/button.png"/>
+<img src="http://img-fotki.yandex.ru/get/6728/221798411.0/0_babcb_d1c8832d_M.png"/>
 </div>
 
 ブロックにカーソルを重ねた時、その見栄えが変わる。
 
 <div style="text-align: center">
-<img src="http://bem.info/method/definitions/images/button-cursor.png"/>
+<img src="http://img-fotki.yandex.ru/get/9110/221798411.0/0_babca_47ce403c_M.png"/>
 </div>
 
 マネージャーは、同じボタンを他のページでも使えるかどうか聞きたくなる。
